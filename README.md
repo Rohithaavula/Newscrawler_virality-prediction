@@ -1,6 +1,6 @@
 # Newscrawler_virality-prediction
 
-#Firstly, we will crawl the news from a popular news website of your choice,I crawled from the Times of India website.
+Firstly, we will crawl the news from a popular news website of your choice,I crawled from the Times of India website.
 #Import all the necessary libraries
 Set the URL for news website and start making request
 Get the soup of articles on website using beautiful soup and fetch all the links present in soup in a variable
